@@ -25,4 +25,5 @@ Java, Python, C, HTML/CSS
 # Media & Contact 📱
 
 Linkedin: [https://www.linkedin.com/in/cinay-dilibal/](https://www.linkedin.com/in/cinay-dilibal/)
+
 Personal website: [cinaydilibal.com](cinaydilibal.com)
