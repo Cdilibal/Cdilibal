@@ -22,6 +22,7 @@ I am Cinay Dilibal. Currently pursuing Computer Science and Human-Centered Desig
 
 Java, Python, C, HTML/CSS
 
-# Media 📱
+# Media & Contact 📱
 
-Visit my website: [cinaydilibal.com](cinaydilibal.com)
+Linkedin: [https://www.linkedin.com/in/cinay-dilibal/](https://www.linkedin.com/in/cinay-dilibal/)
+Personal website: [cinaydilibal.com](cinaydilibal.com)
