@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # Hello! 🖐️
 
-# About me 😎
-
 I am Cinay Dilibal. Currently pursuing Computer Science and Human-Centered Design Engineering at Dartmouth College, specializing in wearable IoMT (Internet of Medical Things)-based devices, AI, and medical imaging. 
 
 # Languages
