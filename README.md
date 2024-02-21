@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello! 🖐️
-
-I am Cinay Dilibal. Currently pursuing Computer Science and Human-Centered Design Engineering at Dartmouth College, specializing in wearable IoMT (Internet of Medical Things)-based devices, AI, medical imaging, and telemedicine. 
+Hello! I am Cinay Dilibal. Currently pursuing Computer Science and Human-Centered Design Engineering at Dartmouth College, specializing in wearable IoMT (Internet of Medical Things)-based devices, AI, medical imaging, and telemedicine. 
 
 # Languages
 
 Java, Python, HTML/CSS
 
-# Media & Contact 📱
+# Media & Contact 
 
 Linkedin: [https://www.linkedin.com/in/cinay-dilibal/](https://www.linkedin.com/in/cinay-dilibal/)
 
